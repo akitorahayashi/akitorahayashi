@@ -5,12 +5,26 @@
 ## Skills
 
 ### Mobile Development
-![SwiftUI](https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white): Native iOS app development experience.
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white): Cross-platform development for iOS and Android.
+<p>
+  <img src="https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <span>SwiftUI: Native iOS app development experience.</span>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <span>Flutter: Cross-platform development for iOS and Android.</span>
+</p>
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB): Responsive and interactive web application development.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <span>React.js: Responsive and interactive web application development.</span>
+</p>
 
+<!--
+<p align="left">
+    <img src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+-->
 <!--
 <p align="left">
     <img src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" alt="GitHub Streak" />
