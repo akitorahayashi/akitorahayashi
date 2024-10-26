@@ -4,7 +4,7 @@
 
 <style>
   .badge {
-    padding: 5px;
+    padding: 30px;
   }
 </style>
 
