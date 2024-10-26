@@ -5,17 +5,17 @@
 ### Mobile Development
 <div>
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <p>Cross-platform development for iOS and Android.</p>
+  <p>A cross-platform UI toolkit that provides high performance for iOS and Android apps.</p>
 </div>
 <div>
   <img src="https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-  <p>Native iOS app development experience.</p>
+  <p>A declarative framework for building intuitive and adaptive iOS user interfaces.</p>
 </div>
 
 ### Frontend Development
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
-  <p>Responsive and interactive web application development.</p>
+  <p>A component-based JavaScript library for building fast and interactive UIs.</p>
 </div>
 
 <!--
