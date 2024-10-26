@@ -14,13 +14,6 @@
   <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" /></span>
 </div>
 
-### Languages
-<div>
-  <span><img src="https://img.shields.io/badge/Japanese-0095D5?style=flat-square&logo=google-translate&logoColor=white" alt="Japanese" /></span>
-  <span>　</span>
-  <span><img src="https://img.shields.io/badge/English-4285F4?style=flat-square&logo=google-translate&logoColor=white" alt="English" /></span>
-</div>
-
 <!--
 <p align="left">
     <img src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" alt="GitHub Streak" />
