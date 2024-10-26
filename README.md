@@ -4,13 +4,13 @@
 
 ### Mobile Development
 <div>
-  <span><img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></span>
-  <span><img src="https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" /></span>
+  <p><img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></p>
+  <p><img src="https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" /></p>
 </div>
 
 ### Frontend Development
 <div>
-  <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" /></span>
+  <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" /></p>
 </div>
 
 <!--
