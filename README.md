@@ -2,7 +2,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" />
 </p>
 
-### <Mobile Development>
+### \<Mobile Development\>
 <div>
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <p>A cross-platform UI toolkit that provides high performance for iOS and Android apps.</p>
