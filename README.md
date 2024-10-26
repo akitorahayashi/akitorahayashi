@@ -2,8 +2,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" />
 </p>
 
-## Skills
-
 ### Mobile Development
 <p>
   <img src="https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
