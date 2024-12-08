@@ -11,6 +11,8 @@
   <span><img src="https://img.shields.io/badge/UIKit-purple?style=flat-square&logo=apple&logoColor=white" alt="UIKit" /></span>
   <br><br>
   <span><img src="https://img.shields.io/badge/Firebase-red?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /></span>
+  <span>　</span>
+  <span><img src="https://img.shields.io/badge/Google%20Cloud%20Platform-yellow?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" /></span>
 
 
 </div>
