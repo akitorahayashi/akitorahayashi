@@ -9,6 +9,9 @@
   <span><img src="https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" /></span>
   <span>　</span>
   <span><img src="https://img.shields.io/badge/UIKit-purple?style=flat-square&logo=apple&logoColor=white" alt="UIKit" /></span>
+  <span>　</span>
+  <span><img src="https://img.shields.io/badge/Firebase-red?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /></span>
+
 
 </div>
 
