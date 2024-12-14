@@ -1,6 +1,9 @@
-<p> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" />
-</p>
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=dark" style="height: 150px;">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" style="height: 150px;">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" style="height: 150px;">
+</picture>
 
 ### Mobile Development
 <div>
@@ -14,13 +17,21 @@
   <span>　</span>
   <span><img src="https://img.shields.io/badge/Google%20Cloud%20Platform-yellow?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" /></span>
 
-
 </div>
 
 ### Frontend Development
 <div>
   <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" /></span>
 </div>
+
+<br>
+
+<!-- GitHub Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=akitorahayashi&theme=dark&hide_border=true" style="height: 150px;">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
+</picture>
 
 
 <!--
