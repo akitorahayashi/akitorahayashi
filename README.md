@@ -24,14 +24,17 @@
   <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" /></span>
 </div>
 
+<!--
 <br>
-
+-->
 <!-- GitHub Streak Stats -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=akitorahayashi&theme=dark&hide_border=true" style="height: 150px;">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
   <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
 </picture>
+-->
 
 
 <!--
