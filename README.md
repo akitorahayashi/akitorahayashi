@@ -5,9 +5,9 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" style="height: 150px;">
 </picture>
 
+
+<!--
 ---
-
-
 <div>
   <span>　</span>
   <span><img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></span>
@@ -28,10 +28,8 @@
   <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" /></span>
 
   ---
-
-
 </div>
-
+-->
 <!--
   <br>
 -->
