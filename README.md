@@ -43,6 +43,23 @@
     <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
   </picture>
 
+  
+<picture>
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-profile-trophy.vercel.app/?username=akitorahayashi&theme=onedark&no-frame=true&no-bg=true" 
+        style="height: auto;">
+    <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-profile-trophy.vercel.app/?username=akitorahayashi&theme=flat&no-frame=true&no-bg=true" 
+        style="height: auto;">
+    <img 
+        alt="GitHub Profile Trophy" 
+        src="https://github-profile-trophy.vercel.app/?username=akitorahayashi&theme=flat&no-frame=true&no-bg=true" 
+        style="height: auto;">
+</picture>
+
+
 <!--
 **akitorahayashi/akitorahayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
