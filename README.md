@@ -1,9 +1,12 @@
+
 <!-- Top Languages -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=dark" style="height: 150px;">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" style="height: 150px;">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitorahayashi&layout=compact&show_icons=true&theme=default" style="height: 150px;">
 </picture>
+-->
 
 
 <!--
@@ -34,13 +37,11 @@
   <br>
 -->
   <!-- GitHub Streak Stats -->
-<!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=akitorahayashi&theme=dark&hide_border=true" style="height: 150px;">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
     <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=akitorahayashi&theme=default&hide_border=true" style="height: 150px;">
   </picture>
--->
 
 <!--
 **akitorahayashi/akitorahayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
