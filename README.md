@@ -2,14 +2,17 @@
 
 I'm a 4th-year student in Niigata who loves working with LLMs. Excited to start my career in Tokyo next year!
 
-# Tech Stack
-
-## Development
+## Dev
 <div>
 <img class="skills__img" width="46" height="46" alt="Python" src="./icons/development/python.svg"/>
 <img class="skills__img" width="46" height="46" alt="FastAPI" src="./icons/development/fastapi.svg"/>
 <img class="skills__img" width="46" height="46" alt="Django" src="./icons/development/django.svg"/>
+<img class="skills__img" width="46" height="46" alt="MLX" src="./icons/development/mlx.svg"/>
 <img class="skills__img" width="46" height="46" alt="Ollama" src="./icons/development/ollama.svg"/>
+<img class="skills__img" width="46" height="46" alt="Hugging Face" src="./icons/development/huggingface.svg"/>
+<img class="skills__img" width="46" height="46" alt="DeepSeek" src="./icons/development/deepseek.svg"/>
+<img class="skills__img" width="46" height="46" alt="GLM" src="./icons/development/glm.svg"/>
+<img class="skills__img" width="46" height="46" alt="Qwen" src="./icons/development/qwen.svg"/>
 <img class="skills__img" width="46" height="46" alt="LangChain" src="./icons/development/langchain.svg"/>
 <img class="skills__img" width="46" height="46" alt="Next.js" src="./icons/development/nextjs.svg"/>
 <img class="skills__img" width="46" height="46" alt="Tailwind CSS" src="./icons/development/tailwindcss.svg"/>
@@ -20,10 +23,9 @@ I'm a 4th-year student in Niigata who loves working with LLMs. Excited to start 
 <img class="skills__img" width="46" height="46" alt="CSS3" src="./icons/development/css3.svg"/>
 </div>
 
-## Infrastructure
+## Infra
 <div>
 <img class="skills__img" width="46" height="46" alt="Visual Studio Code" src="./icons/infrastructure/vscode.svg"/>
-<img class="skills__img" width="46" height="46" alt="Jupyter" src="./icons/infrastructure/jupyter.svg"/>
 <img class="skills__img" width="46" height="46" alt="OpenAI" src="./icons/infrastructure/openai.svg"/>
 <img class="skills__img" width="46" height="46" alt="Gemini" src="./icons/infrastructure/gemini.svg"/>
 <img class="skills__img" width="46" height="46" alt="Claude" src="./icons/infrastructure/claude.svg"/>
