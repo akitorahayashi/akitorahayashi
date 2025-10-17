@@ -26,9 +26,10 @@ I'm a 4th-year student in Niigata who loves working with LLMs. Excited to start 
 ## Infra
 <div>
 <img class="skills__img" width="46" height="46" alt="Visual Studio Code" src="./icons/infrastructure/vscode.svg"/>
+<img class="skills__img" width="46" height="46" alt="Claude" src="./icons/infrastructure/claude.svg"/>
+<img class="skills__img" width="46" height="46" alt="Grok" src="./icons/infrastructure/grok.svg"/>
 <img class="skills__img" width="46" height="46" alt="OpenAI" src="./icons/infrastructure/openai.svg"/>
 <img class="skills__img" width="46" height="46" alt="Gemini" src="./icons/infrastructure/gemini.svg"/>
-<img class="skills__img" width="46" height="46" alt="Claude" src="./icons/infrastructure/claude.svg"/>
 <img class="skills__img" width="46" height="46" alt="CodeRabbit" src="./icons/infrastructure/coderabbit.svg"/>
 <img class="skills__img" width="46" height="46" alt="Git" src="./icons/infrastructure/git.svg"/>
 <img class="skills__img" width="46" height="46" alt="GitHub" src="./icons/infrastructure/github.svg"/>
