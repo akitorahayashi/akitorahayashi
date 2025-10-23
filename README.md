@@ -14,6 +14,7 @@ I'm a 4th-year student in Niigata who loves working with LLMs. Excited to start 
 <img class="skills__img" width="46" height="46" alt="GLM" src="./icons/development/glm.svg"/>
 <img class="skills__img" width="46" height="46" alt="Qwen" src="./icons/development/qwen.svg"/>
 <img class="skills__img" width="46" height="46" alt="LangChain" src="./icons/development/langchain.svg"/>
+<img class="skills__img" width="46" height="46" alt="Rust" src="./icons/development/rust.svg"/>
 <img class="skills__img" width="46" height="46" alt="Next.js" src="./icons/development/nextjs.svg"/>
 <img class="skills__img" width="46" height="46" alt="Tailwind CSS" src="./icons/development/tailwindcss.svg"/>
 <img class="skills__img" width="46" height="46" alt="Node.js" src="./icons/development/nodejs.svg"/>
